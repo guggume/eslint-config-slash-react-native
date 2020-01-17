@@ -1,7 +1,7 @@
 module.exports = {
   extends: ["@react-native-community"],
   rules: {
-    "no-unused-vars": 0,
+    "no-unused-vars": 2,
     "padding-line-between-statements": [
       2,
       { blankLine: "always", prev: "*", next: "return" },

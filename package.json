@@ -1,5 +1,5 @@
 {
-  "name": "config-slash-eslint-native",
+  "name": "eslint-config-slash-react-native",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:guggume/config-slash-eslint-native.git"
+    "url": "git@github.com:guggume/eslint-config-slash-react-native.git"
   },
   "author": "Sandeep Gunduboyina",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/guggume/config-slash-eslint/issues"
+    "url": "https://github.com/guggume/eslint-config-slash-react-native/issues"
   },
-  "homepage": "https://github.com/guggume/config-slash-eslint#readme"
+  "homepage": "https://github.com/guggume/eslint-config-slash-react-native#readme"
 }
